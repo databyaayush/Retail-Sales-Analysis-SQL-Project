@@ -28,7 +28,7 @@ This project simulates a real-world retail analytics workflow. Starting from a r
 | Total revenue captured | ₹9,11,720 |
 | Columns | `transaction_id`, `sale_date`, `sale_time`, `customer_id`, `gender`, `age`, `category`, `quantity`, `price_per_unit`, `cogs`, `total_sale` |
 
-Source file: [`SQL_-_Retail_Sales_Analysis_utf_.csv`](./SQL_-_Retail_Sales_Analysis_utf_.csv)
+Source file: [`SQL - Retail Sales Analysis_utf .csv`](./SQL_-_Retail_Sales_Analysis_utf_.csv)
 
 ---
 
