@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis — SQL Project
+  # 🛍️ Retail Sales Analysis — SQL Project
 
 A complete, beginner-to-intermediate SQL project that cleans, explores, and analyzes 2,000 retail transactions to answer real business questions — the kind of questions a category manager, CFO, or operations lead would actually ask.
 
@@ -145,9 +145,9 @@ GROUP BY shift;
 ## 📁 Repository Structure
 
 ```
-├── SQL_-_Retail_Sales_Analysis_utf_.csv   # Raw dataset
-├── SQL_Query.sql                          # All queries: schema, cleaning, EDA, analysis
-└── README.md                              # Project documentation
+├── README.md   # Project documentation
+├── SQL_-_Retail_Sales_Analysis_utf_.csv   # Raw dataset                       
+└── SQL_Query.sql    # All queries: schema, cleaning, EDA, analysis                         
 ```
 
 ---
@@ -157,8 +157,8 @@ GROUP BY shift;
 **Aayush Kumar Jha**
 Aspiring Data Analyst | SQL · Python · Power BI · Tableau
 
-- 🔗 Portfolio: [databyaayush.github.io/myPortfolio](https://databyaayush.github.io/myPortfolio/)
-- 💼 LinkedIn: [linkedin.com/in/aayushkumar-jha-84b7753bb](https://linkedin.com/in/aayushkumar-jha-84b7753bb)
+- 🔗 Portfolio: [databyaayush.github.io/myPortfolio](https://claude.ai/public/artifacts/08c954e5-b21b-4c6f-a0b4-b3750ebf48de)
+- 💼 LinkedIn: [linkedin.com/in/aayushkumar-jha-84b7753bb](https://www.linkedin.com/in/aayush-kumar-jha-84b7753bb/)
 - 🧑‍💻 GitHub: [github.com/databyaayush](https://github.com/databyaayush)
 - 📧 aayush.jha.working@gmail.com
 
