@@ -95,7 +95,7 @@ Rows with missing critical fields (age, quantity, price, cogs, or total sale) we
 | 9 | Count unique customers per category |
 | 10 | Segment orders into Morning / Afternoon / Evening shifts |
 
-Full annotated queries live in [`SQL_Query.sql`](./SQL_Query.sql).
+Full annotated queries live in [`SQL_Query.sql`](SQL_Query.sql).
 
 **Example — Sales shift segmentation:**
 
